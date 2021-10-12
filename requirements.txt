@@ -1,6 +1,6 @@
 tensorflow-gpu==1.10.1
 numpy==1.14.5
-opencv-python==3.4.3.18
+opencv-python==3.4.7.28
 Pillow==5.2.0
 tqdm==4.26.0
 PyYAML==3.13
